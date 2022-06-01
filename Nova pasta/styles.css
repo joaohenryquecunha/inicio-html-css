@@ -1,0 +1,17 @@
+#test {
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+    border: 5px dotted rgba(238, 16, 16, 0.755);
+    margin: 5px, 10px, 20px, 30px;
+    font-style: italic;
+
+}
+#test1 {
+    width: 500px;
+    height: 80px;
+    padding: 10px;
+    border: double green ;
+    margin: 5px, 10px, 20px, 30px;
+     
+}
